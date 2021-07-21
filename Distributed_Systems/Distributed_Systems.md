@@ -43,8 +43,8 @@ Summary for Distributed Systems - Third edition - Version 3.03 (2020) - Maarten 
 
 ## Chapter 7
 <img src="Chapter7_Consistency_and_Replication/ch7_version_2-page-001-ConvertImage.jpg">
-<img src="Chapter7_Consistency_and_Replication/ch7_version_2-page-002-ConvertImage.jpg">
-<img src="Chapter7_Consistency_and_Replication/ch7_version_2-page-003-ConvertImage.jpg">
+<img src="Chapter7_Consistency_and_Replication/ch7_version_1-page-002-ConvertImage.jpg">
+<img src="Chapter7_Consistency_and_Replication/ch7_version_1-page-003-ConvertImage.jpg">
 
 ## Chapter 8
 <img src="Chapter8_Fault_Tolerance/net-centric_ch8-page-001-ConvertImage.jpg">
