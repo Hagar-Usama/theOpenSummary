@@ -5,14 +5,14 @@ Summary for Distributed Systems - Third edition - Version 3.03 (2020) - Maarten 
 ---
 
 ## Contents
-* [x] chapter 1 - Introduction
-* [ ] chapter 2 - Architectures (some parts are missing)
-* [x] chapter 3 - Processes
+* [x] [chapter 1 - Introduction](#chapter-1)
+* [ ] [chapter 2 - Architectures](#chapter-2) (some parts are missing)
+* [x] [chapter 3 - Processes](#chapter-3)
 * [ ] chapter 4 - Communication (missing)
-* [x] chapter 5 - Naming
-* [x] chapter 6 - Coordination
-* [x] chapter 7 - Consistency and Replication
-* [x] chapter 8 - Fault Tolerance (paxos is excluded)
+* [x] [chapter 5 - Naming](#chapter-5)
+* [x] [chapter 6 - Coordination](#chapter-6)
+* [x] [chapter 7 - Consistency and Replication](#chapter-7)
+* [x] [chapter 8 - Fault Tolerance](#chapter-8) (paxos is excluded)
 * [ ] chapter 9 - Security (missing)
 
 ---
