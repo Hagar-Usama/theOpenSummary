@@ -1,6 +1,6 @@
 # Performance Evaluation and Queueing Theory
 
-Summary [CC581N] Performance Evaluation course - CCE - 2021 🙌
+Summary of [CC581N] Performance Evaluation course - CCE - 2021 🙌
 
 ---
 
@@ -27,14 +27,6 @@ Summary [CC581N] Performance Evaluation course - CCE - 2021 🙌
   ![Tutorial_4](Tutorials/performance_tutorial_4.jpeg)
 * [Tutorial_5](Tutorials/performance_tutorial_5.pdf)
   
----
-
-<object data="Tutorials/performance_sheet_1.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="Tutorials/performance_sheet_1.pdf">
-        <p>This browser does not support PDFs.</p>
-    </embed>
-</object>
-
 ---
 ## Related
 ✅ Project : [Airport Security Simulation Model - Simulink](https://github.com/Hagar-Usama/Airport-Security-Simulation-Model)
